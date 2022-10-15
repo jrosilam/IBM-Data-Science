@@ -4,3 +4,6 @@
 [submodule "side_projects/loan_proj"]
 	path = side_projects/loan_proj
 	url = https://github.com/jrosilam/loan_proj.git
+[submodule "side_projects/stock_proj"]
+	path = side_projects/stock_proj
+	url = https://github.com/jrosilam/stock_proj.git
